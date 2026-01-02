@@ -1,0 +1,556 @@
+[1] Başlatılıyor: Kitaplıklar yükleniyor...
+Promise {<pending>}
+VM333:18 [1] RXJS yüklendi
+VM333:21 [1] rxjs/webSocket yüklendi
+VM333:24 [1] rxjs/fetch yüklendi
+VM333:27 [1] lodash yüklendi
+VM333:30 [1] hcaptcha loader yüklendi
+VM333:33 [2] Kullanıcı ve bölge bilgileri ayarlanıyor...
+VM333:44 [2] Bölge: NL_NL, kullanıcı bilgileri yüklendi
+VM333:47 [3] Bot ve filtre ayarları...
+VM333:56 [3] inventoryPath: inventory
+VM333:57 [3] siteKey: 8d3aee53-3b2b-414d-b043-a67de5b00328
+VM333:61 [4] NO_CACHE çerezi eklendi
+VM333:64 [5] hCaptcha loader bekleniyor...
+VM333:66 [5] hCaptcha loader yüklendi
+VM333:71 [5] Captcha butonu DOM'a eklendi (ID: hc-captcha-btn )
+VM333:74 [5] captchaId: 070iqhx8dtxm
+VM333:80 [5] İlk captchaToken alındı: P1_eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.haJwZACjZXhwzmiC1r-ncGFzc2tlecUDgcTHjlEublNtGqpbjSb5SvEJDHuduc7YUNFdhu8JxjWtryjV1_mEdMp3urPX5qpDpx2ev4eJP3A4o3l_WLOWugt3U64VE5x-OSUb5rLpo1AWDuQNPpwSXDOHWpXXl7t31CtB5G30VSY3pRyMfUN37aEe-sr_KGp-9NFUMLPfh6vjj7xhrcyFwrEWl7YIyD1QPVmdJK-3ZmFZyWe-yLyhdvdJGuRa3hIkKf6kyUNZzS-y4E6F60E_jxALw4NDUlOSK3DLDpZqBRtOxYEZdcmjvzX4oD7uo3He-tz_5PdB5jy_4_Iojzx_MgqzeC3ruUMtlMZSm15fAQIZEFNnaTXov37bK11ZWrmbPmNMx72cEgF98SItNtDIhnzySIsx7Sy95RF0CXCU3rKrcOAEvGvNSy8-i-Wec-EH0hLo2jR787KhWpBpIOavt6rLIFTmus5rjUSjUVpsvj37C7-n_KWjQGeLc2B0AJU5o6njOg7E4PzxH-wpjAhxgRiM26Ew_ezbZwii8RZDWoPTkU05W1FLj72o-PQZRKaXnRs_XfH7mJw9lmjP1qSjbk4rC1hlnBv6QrzQ7OpjseEGlx_Ul3y3wekizXEHEVKeqheS8y0zjF6t6um-FXVfRJGAI28H0YwISUARkC14-DrluPhcKIGhMATKP5-2N6amAK5brIZcHfkXnQcmIEBh_dujt7BOIUZFz2ZUyikW_0AwKe1KWyyOoaxoNhiyN6qN-P4zBHiaoW6EUKQrRcc6WlPtucLMrriavAu8znI6MD-lWrqUs0AWWqHcCgJy-pniDglRX55f4g-MiIZM5eSIUtoidBTLWWnBHMN6jvCUEydvbhZJXeb2aOpCn4wF7hgRlLw0Xg6UvMlYiRfSz32RFFixs2q1ikeF9mz8KNucXp2cqyEpaFDJKx7nkOd2P8AB9EmyRatLP7kPv92xzHSfD4Oc8U83kdUNxz_zK9o5Or7yAHmMBTuNKTICYSE9R7kl3aFAxLjWNxo3nOFKKKE8ndxXE6cl36xFC8ROu689hWzWNoeZbfucVfhfMmrMJ7L7yXgmXd_iiWinRb3GpoP0i7tw9L_X4kXb_FP7BVX2c1TjvlIXEfN8rS4MNmtmF6fyTKKJP6qEFzhGE9Ae2C3VrL3lPEEJLc8YSoR_8r7a1vujEliwVfMYF9_VIwgWtn0cpj4sv2J24WBGbKJrcqg0NjA0NzNlMqhzaGFyZF9pZM4UPIQf.o3M1PS0nvmPJadHBzBk2-xVJgS6M2Iti0kO22gM0khA
+VM333:95 [6] İlk CSRF token'ı alınıyor...
+VM333:102 [6] İlk CSRF hazır: {csrf_key: 'csrf6882d40b3c799', csrf_token: 'FkLMx3vHTQq6HsK3e1+yaMFm268cDn7LUXniPEStII9zevihGv98Ot4n+oEYZtdf9gS+m388SqpjGodddJRCug=='}
+VM333:117 [7] WebSocket akışı başlatılıyor...
+VM333:127 [8] Envanter filtreleme akışı oluşturuluyor...
+VM333:146 [9] Rezervasyon akışı dinleniyor...
+28The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.Understand this warning
+VM333:123 [7] WS mesajı: null
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: null, AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: null, AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: Array(1), AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: null, AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: Array(1), AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: Array(1), AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: null, AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: null, AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: null, AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: Array(1), AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: null, AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: null, AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: true, ADL_OPTS: null, AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: null, AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: true, ADL_OPTS: Array(1), AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: Array(1), AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:138 [8] Trim filtresi geçmedi: LR_AWD
+VM333:138 [8] Trim filtresi geçmedi: LR_RWD
+VM333:138 [8] Trim filtresi geçmedi: LR_AWD
+VM333:148 [9] Araç bulundu: XP7Y234_cbc2da5776f1ce7b1f2eae1d1aaa9f1c
+VM333:148 [9] Araç bulundu: XP7Y232_854ec73171ca298272eb63c0206559cf
+VM333:148 [9] Araç bulundu: XP7Y244_81f56e9fa609b50007ffe67e829ca234
+VM333:138 [8] Trim filtresi geçmedi: LR_AWD
+VM333:138 [8] Trim filtresi geçmedi: LR_RWD
+VM333:148 [9] Araç bulundu: XP7Y246_b05d04edee92f05948ae4acdda90798a
+VM333:148 [9] Araç bulundu: XP7Y246_b02835bb927af074c870654e3e7a15a0
+VM333:138 [8] Trim filtresi geçmedi: LR_RWD
+VM333:148 [9] Araç bulundu: XP7Y234_7936ec4144103d7d15c82913aa3d39ca
+VM333:148 [9] Araç bulundu: XP7Y234_58cc351e8aba000cdf3f2ca1ba3e3a21
+VM333:138 [8] Trim filtresi geçmedi: LR_RWD
+VM333:138 [8] Trim filtresi geçmedi: LR_AWD
+VM333:138 [8] Trim filtresi geçmedi: LR_RWD
+VM333:151 [9] 🔐 Kullanılan CSRF başlıkları: csrf6882d40b3c799 FkLMx3vHTQq6HsK3e1+yaMFm268cDn7LUXniPEStII9zevihGv98Ot4n+oEYZtdf9gS+m388SqpjGodddJRCug==
+VM333:153 [9] 🔄 Rezervasyon isteği gönderiliyor...
+VM333:151 [9] 🔐 Kullanılan CSRF başlıkları: csrf6882d40b3c799 FkLMx3vHTQq6HsK3e1+yaMFm268cDn7LUXniPEStII9zevihGv98Ot4n+oEYZtdf9gS+m388SqpjGodddJRCug==
+VM333:153 [9] 🔄 Rezervasyon isteği gönderiliyor...
+VM333:151 [9] 🔐 Kullanılan CSRF başlıkları: csrf6882d40b3c799 FkLMx3vHTQq6HsK3e1+yaMFm268cDn7LUXniPEStII9zevihGv98Ot4n+oEYZtdf9gS+m388SqpjGodddJRCug==
+VM333:153 [9] 🔄 Rezervasyon isteği gönderiliyor...
+VM333:151 [9] 🔐 Kullanılan CSRF başlıkları: csrf6882d40b3c799 FkLMx3vHTQq6HsK3e1+yaMFm268cDn7LUXniPEStII9zevihGv98Ot4n+oEYZtdf9gS+m388SqpjGodddJRCug==
+VM333:153 [9] 🔄 Rezervasyon isteği gönderiliyor...
+VM333:151 [9] 🔐 Kullanılan CSRF başlıkları: csrf6882d40b3c799 FkLMx3vHTQq6HsK3e1+yaMFm268cDn7LUXniPEStII9zevihGv98Ot4n+oEYZtdf9gS+m388SqpjGodddJRCug==
+VM333:153 [9] 🔄 Rezervasyon isteği gönderiliyor...
+VM333:151 [9] 🔐 Kullanılan CSRF başlıkları: csrf6882d40b3c799 FkLMx3vHTQq6HsK3e1+yaMFm268cDn7LUXniPEStII9zevihGv98Ot4n+oEYZtdf9gS+m388SqpjGodddJRCug==
+VM333:153 [9] 🔄 Rezervasyon isteği gönderiliyor...
+VM333:151 [9] 🔐 Kullanılan CSRF başlıkları: csrf6882d40b3c799 FkLMx3vHTQq6HsK3e1+yaMFm268cDn7LUXniPEStII9zevihGv98Ot4n+oEYZtdf9gS+m388SqpjGodddJRCug==
+VM333:153 [9] 🔄 Rezervasyon isteği gönderiliyor...
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: null, AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: Array(1), AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: Array(1), AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: null, AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: Array(1), AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: Array(1), AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: Array(1), AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+VM333:123 [7] WS mesajı: {InTransit: false, ADL_OPTS: Array(1), AUTOPILOT: null, BATTERY: null, CABIN_CONFIG: Array(1), …}
+cyGSA-J1Up:1  POST https://www.tesla.com/inventory/api/v4/order 403 (Forbidden)
+(anonymous) @ cyGSA-J1Up:1
+VU.<computed> @ cyGSA-J1Up:1
+(anonymous) @ k1Sw5laHw9AQ?v=ae121989-2c28-1273-8678-6669c6411748:1
+fQ.<computed>.<computed> @ k1Sw5laHw9AQ?v=ae121989-2c28-1273-8678-6669c6411748:1
+(anonymous) @ VM333:155
+await in (anonymous)
+ConsumerObserver2.next @ Subscriber-a7cfaf78.js:139
+Subscriber2._next @ Subscriber-a7cfaf78.js:109
+Subscriber2.next @ Subscriber-a7cfaf78.js:82
+(anonymous) @ zipWith-e82116c5.js:448
+OperatorSubscriber2._this._next @ OperatorSubscriber-d10a48c0.js:14
+Subscriber2.next @ Subscriber-a7cfaf78.js:82
+(anonymous) @ zipWith-e82116c5.js:448
+OperatorSubscriber2._this._next @ OperatorSubscriber-d10a48c0.js:14
+Subscriber2.next @ Subscriber-a7cfaf78.js:82
+(anonymous) @ zipWith-e82116c5.js:448
+OperatorSubscriber2._this._next @ OperatorSubscriber-d10a48c0.js:14
+Subscriber2.next @ Subscriber-a7cfaf78.js:82
+(anonymous) @ zipWith-e82116c5.js:448
+OperatorSubscriber2._this._next @ OperatorSubscriber-d10a48c0.js:14
+Subscriber2.next @ Subscriber-a7cfaf78.js:82
+(anonymous) @ zipWith-e82116c5.js:448
+OperatorSubscriber2._this._next @ OperatorSubscriber-d10a48c0.js:14
+Subscriber2.next @ Subscriber-a7cfaf78.js:82
+(anonymous) @ zipWith-e82116c5.js:294
+OperatorSubscriber2._this._next @ OperatorSubscriber-d10a48c0.js:14
+Subscriber2.next @ Subscriber-a7cfaf78.js:82
+(anonymous) @ innerFrom-232f2adb.js:109
+Observable2._trySubscribe @ Observable-6dd0d659.js:53
+(anonymous) @ Observable-6dd0d659.js:47
+errorContext @ Subscriber-a7cfaf78.js:51
+Observable2.subscribe @ Observable-6dd0d659.js:45
+doInnerSub @ zipWith-e82116c5.js:289
+outerNext @ zipWith-e82116c5.js:283
+OperatorSubscriber2._this._next @ OperatorSubscriber-d10a48c0.js:14
+Subscriber2.next @ Subscriber-a7cfaf78.js:82
+
+setInterval @ AsyncScheduler-a8792fcf.js:24
+AsyncAction2.requestAsyncId @ AsyncScheduler-a8792fcf.js:64
+AsyncAction2.schedule @ AsyncScheduler-a8792fcf.js:57
+Scheduler2.schedule @ Scheduler.js:14
+executeSchedule @ Notification-6c838053.js:41
+startBuffer @ zipWith-e82116c5.js:691
+emit @ zipWith-e82116c5.js:679
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+setInterval
+setInterval @ AsyncScheduler-a8792fcf.js:24
+AsyncAction2.requestAsyncId @ AsyncScheduler-a8792fcf.js:64
+AsyncAction2.schedule @ AsyncScheduler-a8792fcf.js:57
+Scheduler2.schedule @ Scheduler.js:14
+executeSchedule @ Notification-6c838053.js:41
+startBuffer @ zipWith-e82116c5.js:691
+emit @ zipWith-e82116c5.js:679
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+setInterval
+setInterval @ AsyncScheduler-a8792fcf.js:24
+AsyncAction2.requestAsyncId @ AsyncScheduler-a8792fcf.js:64
+AsyncAction2.schedule @ AsyncScheduler-a8792fcf.js:57
+Scheduler2.schedule @ Scheduler.js:14
+executeSchedule @ Notification-6c838053.js:41
+startBuffer @ zipWith-e82116c5.js:691
+emit @ zipWith-e82116c5.js:679
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+setInterval
+setInterval @ AsyncScheduler-a8792fcf.js:24
+AsyncAction2.requestAsyncId @ AsyncScheduler-a8792fcf.js:64
+AsyncAction2.schedule @ AsyncScheduler-a8792fcf.js:57
+Scheduler2.schedule @ Scheduler.js:14
+executeSchedule @ Notification-6c838053.js:41
+startBuffer @ zipWith-e82116c5.js:691
+emit @ zipWith-e82116c5.js:679
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+setInterval
+setInterval @ AsyncScheduler-a8792fcf.js:24
+AsyncAction2.requestAsyncId @ AsyncScheduler-a8792fcf.js:64
+AsyncAction2.schedule @ AsyncScheduler-a8792fcf.js:57
+Scheduler2.schedule @ Scheduler.js:14
+executeSchedule @ Notification-6c838053.js:41
+startBuffer @ zipWith-e82116c5.js:691
+emit @ zipWith-e82116c5.js:679
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+setInterval
+setInterval @ AsyncScheduler-a8792fcf.js:24
+AsyncAction2.requestAsyncId @ AsyncScheduler-a8792fcf.js:64
+AsyncAction2.schedule @ AsyncScheduler-a8792fcf.js:57
+Scheduler2.schedule @ Scheduler.js:14
+executeSchedule @ Notification-6c838053.js:41
+startBuffer @ zipWith-e82116c5.js:691
+emit @ zipWith-e82116c5.js:679
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+setInterval
+setInterval @ AsyncScheduler-a8792fcf.js:24
+AsyncAction2.requestAsyncId @ AsyncScheduler-a8792fcf.js:64
+AsyncAction2.schedule @ AsyncScheduler-a8792fcf.js:57
+Scheduler2.schedule @ Scheduler.js:14
+executeSchedule @ Notification-6c838053.js:41
+startBuffer @ zipWith-e82116c5.js:691
+emit @ zipWith-e82116c5.js:679
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+setInterval
+setInterval @ AsyncScheduler-a8792fcf.js:24
+AsyncAction2.requestAsyncId @ AsyncScheduler-a8792fcf.js:64
+AsyncAction2.schedule @ AsyncScheduler-a8792fcf.js:57
+Scheduler2.schedule @ Scheduler.js:14
+executeSchedule @ Notification-6c838053.js:41
+startBuffer @ zipWith-e82116c5.js:691
+emit @ zipWith-e82116c5.js:679
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+setInterval
+setInterval @ AsyncScheduler-a8792fcf.js:24
+AsyncAction2.requestAsyncId @ AsyncScheduler-a8792fcf.js:64
+AsyncAction2.schedule @ AsyncScheduler-a8792fcf.js:57
+Scheduler2.schedule @ Scheduler.js:14
+executeSchedule @ Notification-6c838053.js:41
+startBuffer @ zipWith-e82116c5.js:691
+emit @ zipWith-e82116c5.js:679
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+setInterval
+setInterval @ AsyncScheduler-a8792fcf.js:24
+AsyncAction2.requestAsyncId @ AsyncScheduler-a8792fcf.js:64
+AsyncAction2.schedule @ AsyncScheduler-a8792fcf.js:57
+Scheduler2.schedule @ Scheduler.js:14
+executeSchedule @ Notification-6c838053.js:41
+startBuffer @ zipWith-e82116c5.js:691
+emit @ zipWith-e82116c5.js:679
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+setInterval
+setInterval @ AsyncScheduler-a8792fcf.js:24
+AsyncAction2.requestAsyncId @ AsyncScheduler-a8792fcf.js:64
+AsyncAction2.schedule @ AsyncScheduler-a8792fcf.js:57
+Scheduler2.schedule @ Scheduler.js:14
+executeSchedule @ Notification-6c838053.js:41
+startBuffer @ zipWith-e82116c5.js:691
+emit @ zipWith-e82116c5.js:679
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+setInterval
+setInterval @ AsyncScheduler-a8792fcf.js:24
+AsyncAction2.requestAsyncId @ AsyncScheduler-a8792fcf.js:64
+AsyncAction2.schedule @ AsyncScheduler-a8792fcf.js:57
+Scheduler2.schedule @ Scheduler.js:14
+executeSchedule @ Notification-6c838053.js:41
+startBuffer @ zipWith-e82116c5.js:691
+emit @ zipWith-e82116c5.js:679
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+setInterval
+setInterval @ AsyncScheduler-a8792fcf.js:24
+AsyncAction2.requestAsyncId @ AsyncScheduler-a8792fcf.js:64
+AsyncAction2.schedule @ AsyncScheduler-a8792fcf.js:57
+Scheduler2.schedule @ Scheduler.js:14
+executeSchedule @ Notification-6c838053.js:41
+startBuffer @ zipWith-e82116c5.js:691
+emit @ zipWith-e82116c5.js:679
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+setInterval
+setInterval @ AsyncScheduler-a8792fcf.js:24
+AsyncAction2.requestAsyncId @ AsyncScheduler-a8792fcf.js:64
+AsyncAction2.schedule @ AsyncScheduler-a8792fcf.js:57
+Scheduler2.schedule @ Scheduler.js:14
+executeSchedule @ Notification-6c838053.js:41
+startBuffer @ zipWith-e82116c5.js:691
+emit @ zipWith-e82116c5.js:679
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140Understand this error
+cyGSA-J1Up:1  POST https://www.tesla.com/inventory/api/v4/order 403 (Forbidden)
+(anonymous) @ cyGSA-J1Up:1
+VU.<computed> @ cyGSA-J1Up:1
+(anonymous) @ k1Sw5laHw9AQ?v=ae121989-2c28-1273-8678-6669c6411748:1
+fQ.<computed>.<computed> @ k1Sw5laHw9AQ?v=ae121989-2c28-1273-8678-6669c6411748:1
+(anonymous) @ VM333:155
+await in (anonymous)
+ConsumerObserver2.next @ Subscriber-a7cfaf78.js:139
+Subscriber2._next @ Subscriber-a7cfaf78.js:109
+Subscriber2.next @ Subscriber-a7cfaf78.js:82
+(a
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+setInterval
+setInterval @ AsyncScheduler-a8792fcf.js:24
+AsyncAction2.requestAsyncId @ AsyncScheduler-a8792fcf.js:64
+AsyncAction2.schedule @ AsyncScheduler-a8792fcf.js:57
+Scheduler2.schedule @ Scheduler.js:14
+executeSchedule @ Notification-6c838053.js:41
+startBuffer @ zipWith-e82116c5.js:691
+emit @ zipWith-e82116c5.js:679
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140Understand this error
+VM333:138 [8] Trim filtresi geçmedi: LR_AWD
+VM333:138 [8] Trim filtresi geçmedi: LR_RWD
+VM333:138 [8] Trim filtresi geçmedi: LR_AWD
+VM333:138 [8] Trim filtresi geçmedi: LR_RWD
+VM333:138 [8] Trim filtresi geçmedi: LR_AWD
+2VM333:138 [8] Trim filtresi geçmedi: LR_RWD
+VM333:138 [8] Trim filtresi geçmedi: LR_AWD
+VM333:211 [9] ✔️ Status: 403 
+VM333:214      header: cache-control → max-age=0, no-cache, no-store
+VM333:214      header: content-length → 399
+VM333:214      header: content-type → text/html
+VM333:214      header: date → Fri, 25 Jul 2025 00:56:53 GMT
+VM333:214      header: expires → Fri, 25 Jul 2025 00:56:53 GMT
+VM333:214      header: mime-version → 1.0
+VM333:214      header: permissions-policy → interest-cohort=()
+VM333:214      header: pragma → no-cache
+VM333:214      header: server → AkamaiGHost
+VM333:214      header: strict-transport-security → max-age=15768000
+VM333:214      header: x-ak-cache → NotCacheable from child
+VM333:214      header: x-reference-error → 18.47c11302.1753405013.2d3259d
+VM333:218 [9] Cevap gövdesi: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;tesla&#46;com&#47;inventory&#47;api&#47;v4&#47;order" on this server.<P>
+Reference&#32;&#35;18&#46;47c11302&#46;1753405013&#46;2d3259d
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;47c11302&#46;1753405013&#46;2d3259d</P>
+</BODY>
+</HTML>
+
+
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+VM333:211 [9] ✔️ Status: 403 
+VM333:214      header: cache-control → max-age=0, no-cache, no-store
+VM333:214      header: content-length → 399
+VM333:214      header: content-type → text/html
+VM333:214      header: date → Fri, 25 Jul 2025 00:56:54 GMT
+VM333:214      header: expires → Fri, 25 Jul 2025 00:56:54 GMT
+VM333:214      header: mime-version → 1.0
+VM333:214      header: permissions-policy → interest-cohort=()
+VM333:214      header: pragma → no-cache
+VM333:214      header: server → AkamaiGHost
+VM333:214      header: strict-transport-security → max-age=15768000
+VM333:214      header: x-ak-cache → NotCacheable from child
+VM333:214      header: x-reference-error → 18.47c11302.1753405013.2d325b5
+VM333:211 [9] ✔️ Status: 403 
+VM333:214      header: cache-control → max-age=0, no-cache, no-store
+VM333:214      header: content-length → 399
+VM333:214      header: content-type → text/html
+VM333:214      header: date → Fri, 25 Jul 2025 00:56:54 GMT
+VM333:214      header: expires → Fri, 25 Jul 2025 00:56:54 GMT
+VM333:214      header: mime-version → 1.0
+VM333:214      header: permissions-policy → interest-cohort=()
+VM333:214      header: pragma → no-cache
+VM333:214      header: server → AkamaiGHost
+VM333:214      header: strict-transport-security → max-age=15768000
+VM333:214      header: x-ak-cache → NotCacheable from child
+VM333:214      header: x-reference-error → 18.47c11302.1753405013.2d325a0
+VM333:211 [9] ✔️ Status: 403 
+VM333:214      header: cache-control → max-age=0, no-cache, no-store
+VM333:214      header: content-length → 399
+VM333:214      header: content-type → text/html
+VM333:214      header: date → Fri, 25 Jul 2025 00:56:54 GMT
+VM333:214      header: expires → Fri, 25 Jul 2025 00:56:54 GMT
+VM333:214      header: mime-version → 1.0
+VM333:214      header: permissions-policy → interest-cohort=()
+VM333:214      header: pragma → no-cache
+VM333:214      header: server → AkamaiGHost
+VM333:214      header: strict-transport-security → max-age=15768000
+VM333:214      header: x-ak-cache → NotCacheable from child
+VM333:214      header: x-reference-error → 18.47c11302.1753405013.2d325d4
+VM333:211 [9] ✔️ Status: 403 
+VM333:214      header: cache-control → max-age=0, no-cache, no-store
+VM333:214      header: content-length → 399
+VM333:214      header: content-type → text/html
+VM333:214      header: date → Fri, 25 Jul 2025 00:56:54 GMT
+VM333:214      header: expires → Fri, 25 Jul 2025 00:56:54 GMT
+VM333:214      header: mime-version → 1.0
+VM333:214      header: permissions-policy → interest-cohort=()
+VM333:214      header: pragma → no-cache
+VM333:214      header: server → AkamaiGHost
+VM333:214      header: strict-transport-security → max-age=15768000
+VM333:214      header: x-ak-cache → NotCacheable from child
+VM333:214      header: x-reference-error → 18.47c11302.1753405013.2d325d3
+VM333:211 [9] ✔️ Status: 403 
+VM333:214      header: cache-control → max-age=0, no-cache, no-store
+VM333:214      header: content-length → 399
+VM333:214      header: content-type → text/html
+VM333:214      header: date → Fri, 25 Jul 2025 00:56:54 GMT
+VM333:214      header: expires → Fri, 25 Jul 2025 00:56:54 GMT
+VM333:214      header: mime-version → 1.0
+VM333:214      header: permissions-policy → interest-cohort=()
+VM333:214      header: pragma → no-cache
+VM333:214      header: server → AkamaiGHost
+VM333:214      header: strict-transport-security → max-age=15768000
+VM333:214      header: x-ak-cache → NotCacheable from child
+VM333:214      header: x-reference-error → 18.47c11302.1753405013.2d325b7
+VM333:211 [9] ✔️ Status: 403 
+VM333:214      header: cache-control → max-age=0, no-cache, no-store
+VM333:214      header: content-length → 399
+VM333:214      header: content-type → text/html
+VM333:214      header: date → Fri, 25 Jul 2025 00:56:54 GMT
+VM333:214      header: expires → Fri, 25 Jul 2025 00:56:54 GMT
+VM333:214      header: mime-version → 1.0
+VM333:214      header: permissions-policy → interest-cohort=()
+VM333:214      header: pragma → no-cache
+VM333:214      header: server → AkamaiGHost
+VM333:214      header: strict-transport-security → max-age=15768000
+VM333:214      header: x-ak-cache → NotCacheable from child
+VM333:214      header: x-reference-error → 18.47c11302.1753405013.2d325d5
+VM333:218 [9] Cevap gövdesi: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;tesla&#46;com&#47;inventory&#47;api&#47;v4&#47;order" on this server.<P>
+Reference&#32;&#35;18&#46;47c11302&#46;1753405013&#46;2d325b5
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;47c11302&#46;1753405013&#46;2d325b5</P>
+</BODY>
+</HTML>
+
+VM333:229 [9] ❌ Rezervasyon isteği sırasında hata: SyntaxError: Unexpected token 'o', "[object Rea"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.next (<anonymous>:223:31)
+(anonymous) @ VM333:229
+await in (anonymous)
+ConsumerObserver2.next @ Subscriber-a7cfaf78.js:139
+Subscriber2._next @ Subscriber-a7cfaf78.js:109
+Subscriber2.next @ Subscriber-a7cfaf78.js:82
+
+setInterval @ AsyncScheduler-a8792fcf.js:24
+AsyncAction2.requestAsyncId @ AsyncScheduler-a8792fcf.js:64
+AsyncAction2.schedule @ AsyncScheduler-a8792fcf.js:57
+Scheduler2.schedule @ Scheduler.js:14
+executeSchedule @ Notification-6c838053.js:41
+startBuffer @ zipWith-e82116c5.js:691
+emit @ zipWith-e82116c5.js:679
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+setInterval
+setInterval @ AsyncScheduler-a8792fcf.js:24
+AsyncAction2.requestAsyncId @ AsyncScheduler-a8792fcf.js:64
+AsyncAction2.schedule @ AsyncScheduler-a8792fcf.js:57
+Scheduler2.schedule @ Scheduler.js:14
+executeSchedule @ Notification-6c838053.js:41
+startBuffer @ zipWith-e82116c5.js:691
+emit @ zipWith-e82116c5.js:679
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+
+setInterval @ AsyncScheduler-a8792fcf.js:24
+AsyncAction2.requestAsyncId @ AsyncScheduler-a8792fcf.js:64
+AsyncAction2.schedule @ AsyncScheduler-a8792fcf.js:57
+Scheduler2.schedule @ Scheduler.js:14
+executeSchedule @ Notification-6c838053.js:41
+startBuffer @ zipWith-e82116c5.js:691
+emit @ zipWith-e82116c5.js:679
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+setInterval
+setInterval @ AsyncScheduler-a8792fcf.js:24
+AsyncAction2.requestAsyncId @ AsyncScheduler-a8792fcf.js:64
+AsyncAction2.schedule @ AsyncScheduler-a8792fcf.js:57
+Scheduler2.schedule @ Scheduler.js:14
+executeSchedule @ Notification-6c838053.js:41
+startBuffer @ zipWith-e82116c5.js:691
+emit @ zipWith-e82116c5.js:679
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+VM333:218 [9] Cevap gövdesi: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;tesla&#46;com&#47;inventory&#47;api&#47;v4&#47;order" on this server.<P>
+Reference&#32;&#35;18&#46;47c11302&#46;1753405013&#46;2d325b7
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;47c11302&#46;1753405013&#46;2d325b7</P>
+</BODY>
+</HTML>
+
+VM333:229 [9] ❌ Rezervasyon isteği sırasında hata: SyntaxError: Unexpected token 'o', "[object Rea"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.next (<anonymous>:223:31)
+(anonymous) @ VM333:229
+await in (anonymous)
+
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140
+VM333:218 [9] Cevap gövdesi: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;tesla&#46;com&#47;inventory&#47;api&#47;v4&#47;order" on this server.<P>
+Reference&#32;&#35;18&#46;47c11302&#46;1753405013&#46;2d325d5
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;47c11302&#46;1753405013&#46;2d325d5</P>
+</BODY>
+</HTML>
+
+VM333:229 [9] ❌ Rezervasyon isteği sırasında hata: SyntaxError: Unexpected token 'o', "[object Rea"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at Object.next (<anonymous>:223:31)
+(anonymous) @ VM333:229
+await in (anonymous)
+ConsumerObserver2.next @ Subscriber-a7cfaf78.js:139
+Subscriber2._next @ Subscriber-a7cfaf78.js:109
+Subscriber2.next @ Subscriber-a7cfaf78.js:82
+(anonymous) @ zipWith-e82116c5.js:448
+
+(anonymous) @ zipWith-e82116c5.js:692
+(anonymous) @ Notification-6c838053.js:42
+AsyncAction2._execute @ AsyncScheduler-a8792fcf.js:94
+AsyncAction2.execute @ AsyncScheduler-a8792fcf.js:83
+AsyncScheduler2.flush @ AsyncScheduler-a8792fcf.js:140

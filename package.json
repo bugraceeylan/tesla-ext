@@ -1,0 +1,29 @@
+{
+  "name": "canbaba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "2captcha": "^3.0.5-2",
+    "axios": "^1.10.0",
+    "axios-cookiejar-support": "^6.0.4",
+    "cheerio": "^1.1.0",
+    "cloudscraper": "^4.6.0",
+    "dotenv": "^17.2.0",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.14.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.8",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "querystring": "^0.2.1",
+    "tesla-inventory": "^3.5.299",
+    "tough-cookie": "^5.1.2"
+  }
+}

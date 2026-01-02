@@ -1,0 +1,128 @@
+[
+  {
+    "name": "auth_session",
+    "value": "40d50f9764",
+    "domain": ".tesla.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "tesla_logged_in",
+    "value": "Y",
+    "domain": ".tesla.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "NO_CACHE",
+    "value": "Y",
+    "domain": ".tesla.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "teslaSSORefreshToken",
+    "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjI5Skh4dlVBVVFfbDlBVXFhcHBrV2dLRDhRRSJ9.eyJpc3MiOiJodHRwczovL2F1dGgudGVzbGEuY29tIiwiYXVkIjoiaHR0cHM6Ly9hdXRoLnRlc2xhLmNvbS9vYXV0aDIvdjEvdG9rZW4iLCJpYXQiOjE3NTI3ODc0OTIsImRhdGEiOnsic3ViIjoiOTliMTMzODMtN2I0Yi00M2VkLWFmZDUtZTI2OTM4MTJhMTRiIiwic2NwIjpbIm9mZmxpbmVfYWNjZXNzIiwib3BlbmlkIiwib3VfY29kZSIsImVtYWlsIiwicGhvbmUiXSwiYXpwIjoib3duZXJzaGlwIiwiYW1yIjpbInB3ZCJdLCJhdXRoX3RpbWUiOjE3NTI3ODc0OTF9fQ.rXII1tkwa628Own3gdqFOoCi6Hb3o5mU-c2N4Ku0VLIHYqhB4viwKzrz0SRI-FosOQdCiIfGCvSP2154i7b0fhJCB10yPDep93k-K2D7hrd9zlUwNVlJnros5T9HEJ_OWWhQquq2Qtcc2u-RVWEoP6-rmMMJ6K5TtAhVeR0xwdFTxYPqnOGdUQ1Z4d8nfFU6cUfmTD-ut7iR39adzxJVAA27MFDtWRLUyDC_BZv2hiT-r5weLYYQgVOMSphW90cGjOzfruJxOWXKi-IXVM6PLYsvvcazpbYMQ0Hk2l6qX8GL3sOtw8RK53WsGHcJ9oW8gC--g573KeYFs3xU4J5_KQ",
+    "domain": ".tesla.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "tsla-cookie-consent",
+    "value": "rejected",
+    "domain": ".tesla.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "coin_auth_session",
+    "value": "0cb5ff4f2e2119d87025538225553c98",
+    "domain": ".tesla.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "buy_flow_locale",
+    "value": "en_US",
+    "domain": ".tesla.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bm_ss",
+    "value": "ab8e18ef4e",
+    "domain": ".tesla.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "cua_sess",
+    "value": "27bd88f91fb87654049977542cb22daf",
+    "domain": ".tesla.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ak_bmsc",
+    "value": "55380472D9B1AD2146BDA853E59C6852~000000000000000000000000000000~YAAQ7LCvw48pNhOYAQAAQn3uHRy+CTQeNZcPBZpnvBRvphyFXWpSIMgjwQqz7MdDZ4QyK5HjqmY6QKlRLehPLaFe8iAp408eFWQqe0r2otdn4mo21h/pRb7JITv3sfNo3/v7EKhuV2E4e+J+l/uV6f0mPub1AjXNbm4A5L6hVj8vFObd4fXUPZLgLfe/Bvk17dLD7lagZOAErgJdC+t9XzAc7LyISefJycBa9h8y2Od/xJ0nxSTnZLiC77+2KhXtaWJNMgAwMblJCOE6jpUFNMN30YFilDP3HSGwOG6b2Qkz7cyaqKsKKg9/3wC9eVgdaSaGO4VI4KQRsvBeAZ9VDLNAI0mQ/tmCeYiyfqxL6t3FaROUOUU2GogMFDZtnVLXQ+0E05Zo",
+    "domain": ".tesla.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_csrf",
+    "value": "rZQ9LiGId34q9EZJLdi7-Cu8",
+    "domain": ".tesla.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "teslaLoginState",
+    "value": "bc41e495-f0f2-48c3-a126-b044d1d8cbc6",
+    "domain": ".tesla.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "authTeslaWebToken",
+    "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIxMjAyOTk4OTk0IiwiYWNjb3VudElkIjoiMWQ0M2NlYzMtZmUwMS00MDEwLTg1NGYtMDQ5NTYxMmNmNTEwIiwiZmVkZXJhdGlvbklkIjoiOTliMTMzODMtN2I0Yi00M2VkLWFmZDUtZTI2OTM4MTJhMTRiIiwibWZhRW5hYmxlZCI6ZmFsc2UsInVzZXJDb3VudHJ5Q29kZSI6IlRSIiwiZW1haWwiOiJzYXJhaGFsYW5pMDlAZ21haWwuY29tIiwibG9naW5QaG9uZSI6IiIsImlhdCI6MTc1Mjg0OTIwMSwiZXhwIjoxNzUyODQ5MzIxfQ.CKkZn9e5aTR7FDQ5YLaZKQoBYQFjqknrXN8qgyA-unI",
+    "domain": ".tesla.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "teslaSSOIdToken",
+    "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjI5Skh4dlVBVVFfbDlBVXFhcHBrV2dLRDhRRSJ9.eyJpc3MiOiJodHRwczovL2F1dGgudGVzbGEuY29tIiwic3ViIjoiOTliMTMzODMtN2I0Yi00M2VkLWFmZDUtZTI2OTM4MTJhMTRiIiwiYXVkIjoib3duZXJzaGlwIiwiZXhwIjoxNzUyODQ5NTAxLCJpYXQiOjE3NTI4NDkyMDEsImF1dGhfdGltZSI6MTc1Mjc4NzQ5MSwiYW1yIjpbInB3ZCJdLCJ1cGRhdGVkX2F0IjoxNzUxNjQxNTA0LCJlbWFpbCI6InNhcmFoYWxhbmkwOUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwicGhvbmVfbnVtYmVyX3ZlcmlmaWVkIjpmYWxzZSwib3VfY29kZSI6IkVVIiwibG9jYWxlIjoidHItVFIifQ.Bq1kjKGLzSFqrWLTPe0_89VmszoSneaTXNS1621FaJf6qaByhmYwzDWz8Pwid_UtTZ490PfWfrUYy7ZZEn6MygGan5PBcutDh40M0arwxGyKuqRAnQOXD6ybwLGtAwuz6Vh04zvRwZLiYPmy48ZjdBPur9UEipGjxro88qGSQWaj5bJnUm_Amt3d_Y_CWE0mabLbdvzQ4aaB8FkuONNIBjIcBS_uBor9H8Z05qUcExfXlckNpjcH9fu7RKdYhqD35shvWODyKNh1iWUeTes5eGVVun-mLdpLOWwSCcp5ZkOu8Dq8x08EEv0GDBJGB9Z-FAYP58oiHLASCCR0QfmoEQ",
+    "domain": ".tesla.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  }
+]
